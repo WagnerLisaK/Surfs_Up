@@ -15,4 +15,12 @@ The images below display the statistics of the temperatures gathered in the mont
 ## Summary
 Overall, the temperatures in June and December similar, but the lows in December means it takes longer to warm up to the high temp and the days are shorter in December.
 
-2 additional queries ....
+When evaluating precipitation for each month, the queries and stats are below ...
+
+![June_Prcp.png](https://github.com/WagnerLisaK/Surfs_Up/blob/main/June_Prcp.png)
+
+![Dec_Prcp.png](https://github.com/WagnerLisaK/Surfs_Up/blob/main/Dec_Prcp.png)
+
+December, on average, gets almost twice as much precipitation as June.  This, combined with the possible cooler temps and shorter days, the shop may make a profit in the winter time, but not near the profit between April and October.
+
+Submitted by Lisa K Wagner (08/18/2021)
